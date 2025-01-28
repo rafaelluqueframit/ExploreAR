@@ -1,9 +1,6 @@
+### ExploreAR – Aplicación Turística
 
-# ENTREGA FINAL DE PRÁCTICAS CUIA
-
-![Logo ExploreAR](arucoMarcador2.jpg "Logo")
-
-## ExploreAR – Aplicación Turística
+![Logo ExploreAR](logoExploreAR.jpg "Logo")
 
 - **Autor**: Rafael Luque Framit  
 - **Título**: ExploreAR – Aplicación turística  
