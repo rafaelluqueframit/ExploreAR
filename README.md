@@ -1,6 +1,6 @@
 ### ExploreAR – Aplicación Turística
 
-![Logo ExploreAR](logoExploreAR.jpg "Logo")
+![Logo ExploreAR](logoExploreAR.png "Logo")
 
 - **Autor**: Rafael Luque Framit  
 - **Título**: ExploreAR – Aplicación turística  
