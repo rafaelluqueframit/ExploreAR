@@ -1,7 +1,7 @@
 
 # ENTREGA FINAL DE PRÁCTICAS CUIA
 
-@image [arucoMarcador2.pdf](https://github.com/user-attachments/files/18575886/arucoMarcador2.pdf)
+![Logo ExploreAR](arucoMarcador2.jpg "Logo")
 
 ## ExploreAR – Aplicación Turística
 
