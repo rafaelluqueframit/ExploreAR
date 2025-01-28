@@ -87,7 +87,8 @@ SpeechRecognition==3.10.1
 folium==0.16.0
 opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
-pygame==2.5.2```
+pygame==2.5.2
+```
 
 En primer lugar, una vez tengamos el proyecto descompilado debemos instalarnos todas las
 dependencias necesarias para que la aplicación funcione. Para ello debemos ejecutar en la
