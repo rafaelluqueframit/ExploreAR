@@ -87,15 +87,15 @@ SpeechRecognition==3.10.1
 folium==0.16.0
 opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
-pygame==2.5.2
+pygame==2.5.2```
 
 En primer lugar, una vez tengamos el proyecto descompilado debemos instalarnos todas las
 dependencias necesarias para que la aplicación funcione. Para ello debemos ejecutar en la
 terminal el siguiente comando:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Tras esto podemos ejecutar la aplicación, para ello ejecutamos en la terminal el comando:
-python main.py
+```python main.py```
 
 ### Uso de la aplicación
 En primer lugar, una vez iniciada la aplicación, se abrirá la cámara del dispositivo y nos
