@@ -1,4 +1,7 @@
+
 # ENTREGA FINAL DE PRÁCTICAS CUIA
+
+[arucoMarcador2.pdf](https://github.com/user-attachments/files/18575886/arucoMarcador2.pdf)
 
 ## ExploreAR – Aplicación Turística
 
