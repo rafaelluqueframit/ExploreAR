@@ -1,0 +1,7 @@
+C:/Users/Usuario/Desktop/5CARRERA/CUIA/PRACTICAS/Proyecto/apriltag/CMakeFiles/apriltag.dir
+C:/Users/Usuario/Desktop/5CARRERA/CUIA/PRACTICAS/Proyecto/apriltag/CMakeFiles/apriltag_py_docstrings.dir
+C:/Users/Usuario/Desktop/5CARRERA/CUIA/PRACTICAS/Proyecto/apriltag/CMakeFiles/apriltag.cp310-win_amd64.dir
+C:/Users/Usuario/Desktop/5CARRERA/CUIA/PRACTICAS/Proyecto/apriltag/CMakeFiles/apriltag_demo.dir
+C:/Users/Usuario/Desktop/5CARRERA/CUIA/PRACTICAS/Proyecto/apriltag/CMakeFiles/INSTALL.dir
+C:/Users/Usuario/Desktop/5CARRERA/CUIA/PRACTICAS/Proyecto/apriltag/CMakeFiles/ALL_BUILD.dir
+C:/Users/Usuario/Desktop/5CARRERA/CUIA/PRACTICAS/Proyecto/apriltag/CMakeFiles/ZERO_CHECK.dir

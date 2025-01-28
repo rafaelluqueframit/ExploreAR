@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\apriltag.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\apriltag_pose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\apriltag_quad_thresh.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\g2d.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\homography.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\image_u8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\image_u8x3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\image_u8x4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\matd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\pam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\pjpeg-idct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\pjpeg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\pnm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\pthreads_cross.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\string_util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\svd22.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\time_util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\unionfind.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\workerpool.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\zarray.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\zhash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\common\zmaxheap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tag16h5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tag25h9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tag36h10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tag36h11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tagCircle21h7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tagCircle49h12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tagCustom48h12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tagStandard41h12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\tagStandard52h13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Usuario\Desktop\5CARRERA\CUIA\PRACTICAS\Proyecto\apriltag\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BE70A51D-E9B3-39A5-8A34-228AB4A7C1B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
